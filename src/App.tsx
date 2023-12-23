@@ -1,6 +1,5 @@
 import FirstStep from "./components/FirstStep";
 import SecondStep from "./components/SecondStep";
-import AppContextProvider from "./context/AppContext";
 import { useContext } from "react";
 import { AppContext } from "./context/AppContext";
 import ThirdStep from "./components/ThirdStep";
